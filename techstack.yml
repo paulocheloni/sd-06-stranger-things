@@ -1,0 +1,20 @@
+repo_name: paulocheloni/sd-06-stranger-things
+report_id: 7a26d97a38d03b018d0adff2a2fa8346
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-29T14:32:08+00:00'
+requested_by: vinicius-vasconcelos
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/paulocheloni/sd-06-stranger-things
+  detection_source: Repo Metadata
